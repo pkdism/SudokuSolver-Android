@@ -5,8 +5,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
-//adding a temporary comment
-//another temporary comment
+
 public class MainActivity extends AppCompatActivity {
     public Button solve, reset;
     private int[][] grid = new int[9][9];
